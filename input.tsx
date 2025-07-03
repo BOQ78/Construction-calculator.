@@ -1,0 +1,1 @@
+export const input = (props) => <div>{props.children}</div>;

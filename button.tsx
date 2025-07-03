@@ -1,0 +1,1 @@
+export const button = (props) => <div>{props.children}</div>;
